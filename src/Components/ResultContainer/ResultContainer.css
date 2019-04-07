@@ -1,0 +1,6 @@
+.result-container {
+     width: 50%;
+     border:3px dashed purple;
+     height:400px;
+     flex-grow: 2;    
+}
